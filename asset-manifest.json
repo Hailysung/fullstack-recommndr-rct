@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fullstack-recommndr-rct/static/css/main.85d50372.css",
+    "main.js": "/fullstack-recommndr-rct/static/js/main.53cc9f77.js",
+    "index.html": "/fullstack-recommndr-rct/index.html",
+    "main.85d50372.css.map": "/fullstack-recommndr-rct/static/css/main.85d50372.css.map",
+    "main.53cc9f77.js.map": "/fullstack-recommndr-rct/static/js/main.53cc9f77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d50372.css",
+    "static/js/main.53cc9f77.js"
+  ]
+}
